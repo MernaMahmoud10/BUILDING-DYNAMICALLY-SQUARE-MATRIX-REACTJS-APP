@@ -1,3 +1,9 @@
+# Scinario of this app :
+1-building square matrix by entering the dimension of it into the input
+  like the default value of the input is 3 and the displayed matrix is 3 by 3 .
+2-when you clicked on two buttons of the matrix they will swap 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
